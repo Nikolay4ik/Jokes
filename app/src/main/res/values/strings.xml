@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="web">Web</string>
+    <string name="save">Загрузить</string>
+    <string name="jokes">Введите кол-во шуток</string>
+</resources>
